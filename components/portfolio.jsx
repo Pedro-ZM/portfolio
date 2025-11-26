@@ -186,6 +186,17 @@ const educationData = [
     tittle: "/certificado_fundamentos_de_react.pdf"
   },
   {
+      type: "cert",
+    titleES: "PET CETIFICATE IN ENGLISH",
+    titleEN: "PET CETIFICATE IN ENGLISH",
+    institutionES: "Cambridge University Press & Assessment",
+    institutionEN: "Cambridge University Press & Assessment",
+    period: "2022",
+    descES: "Certificación en inglés nivel B1, demostrando competencia comunicativa intermedia.",
+    descEN: "Certification in English level B1, demonstrating intermediate communicative competence.",
+    tittle: "/StatementOfResult.pdf"
+  },
+  {
     type: "degree",
     titleES: "Técnico Superior en Desarrollo de Aplicaciones Web",
     titleEN: "Higher Technician in Web Application Development",
