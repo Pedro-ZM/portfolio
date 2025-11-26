@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background -->
+  <rect width="200" height="200" fill="#f0f4f8"/>
+  
+  <!-- Desk -->
+  <rect x="20" y="140" width="160" height="50" fill="#8b7355" rx="4"/>
+  
+  <!-- Monitor -->
+  <rect x="60" y="70" width="80" height="60" fill="#2d3748" rx="4"/>
+  <rect x="65" y="75" width="70" height="50" fill="#1a202c"/>
+  
+  <!-- Code on screen -->
+  <line x1="70" y1="82" x2="95" y2="82" stroke="#48bb78" stroke-width="1.5"/>
+  <line x1="75" y1="88" x2="105" y2="88" stroke="#63b3ed" stroke-width="1.5"/>
+  <line x1="75" y1="94" x2="125" y2="94" stroke="#ed8936" stroke-width="1.5"/>
+  <line x1="70" y1="100" x2="110" y2="100" stroke="#f6e05e" stroke-width="1.5"/>
+  <line x1="75" y1="106" x2="100" y2="106" stroke="#9f7aea" stroke-width="1.5"/>
+  <line x1="75" y1="112" x2="120" y2="112" stroke="#48bb78" stroke-width="1.5"/>
+  
+  <!-- Monitor stand -->
+  <rect x="92" y="130" width="16" height="10" fill="#4a5568"/>
+  <rect x="80" y="140" width="40" height="3" fill="#4a5568" rx="1"/>
+  
+  <!-- Coffee cup -->
+  <ellipse cx="145" cy="143" rx="8" ry="3" fill="#a0522d"/>
+  <rect x="137" y="133" width="16" height="10" fill="#d2691e" rx="2"/>
+  <path d="M 153 136 Q 158 136 158 140 Q 158 144 153 144" stroke="#a0522d" stroke-width="1.5" fill="none"/>
+  
+  <!-- Keyboard -->
+  <rect x="65" y="148" width="70" height="20" fill="#718096" rx="3"/>
+  <rect x="68" y="151" width="64" height="14" fill="#4a5568" rx="2"/>
+  
+  <!-- Developer icon/person (simplified) -->
+  ircle cx="35" cy="100" r="12" fill="#fed7d7"/>
+  <path d="M 25 112 Q 35 125 45 112" fill="#4299e1"/>
+  
+  <!-- Brackets symbol (code icon) -->
+  <text x="15" y="60" font-family="monospace" font-size="24" fill="#4299e1" font-weight="bold">&lt;/&gt;</text>
+</svg>
